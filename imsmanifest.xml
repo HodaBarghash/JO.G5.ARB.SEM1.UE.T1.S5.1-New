@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">JO.G5.ARB.SEM1.UE.T1.S5.1</langstring>
+          <langstring xml:lang="x-none">JO.G5.ARB.SEM1.UE.T1.S5.1 copy</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="JO.G5.ARB.SEM1.UE.T1.S5.1_ORG">
-    <organization identifier="JO.G5.ARB.SEM1.UE.T1.S5.1_ORG">
-      <title>JO.G5.ARB.SEM1.UE.T1.S5.1</title>
+  <organizations default="JO.G5.ARB.SEM1.UE.T1.S5.1_copy_ORG">
+    <organization identifier="JO.G5.ARB.SEM1.UE.T1.S5.1_copy_ORG">
+      <title>JO.G5.ARB.SEM1.UE.T1.S5.1 copy</title>
       <item identifier="JO.G5.ARB.SEM1.UE.T1.S5.1_SCO" isvisible="true" identifierref="__6RFSGs9XFqa_RES">
-        <title>JO.G5.ARB.SEM1.UE.T1.S5.1</title>
+        <title>JO.G5.ARB.SEM1.UE.T1.S5.1 copy</title>
       </item>
     </organization>
   </organizations>
@@ -65,9 +65,10 @@
       <file href="mobile/6B0A7XAUlo7.png" />
       <file href="mobile/5dst0u2WIc9_P_248_235_1375_596.png" />
       <file href="mobile/6PRKxQ2lCju.png" />
+      <file href="story_content/6Xw3n7nKvgz_44100_160_0.mp3" />
       <file href="story_content/6W9iuh9D1id_44100_160_0.mp3" />
       <file href="story_content/6dGDJDgPsIa_44100_160_0.mp3" />
-      <file href="story_content/6IAOANKVg1g_44100_160_0.mp3" />
+      <file href="story_content/5ylqs4eUaLu_44100_160_0.mp3" />
       <file href="mobile/5oHF3j3ek74.png" />
       <file href="story_content/6EYw1xM5W86_44100_160_0.mp3" />
       <file href="story_content/6YRgMqHH3DT_44100_160_0.mp3" />
